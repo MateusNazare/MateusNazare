@@ -5,9 +5,8 @@
   <a href="https://www.facebook.com/mateus.nazare.9/about" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/mateus_tavares11/tagged/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
-
-<h3>About me</h3>
-<p> I'm a backend developer and lover of technology and coding. 💻❤️ </p>
+<h3 align="center">About me</h3>
+<h5 align="center"> I'm a backend developer and lover of technology and coding. 💻❤️ </h5>
 
 - 🔭 I’m currently working with backend developing
 - 🌱 I’m currently learning about flutter and node.js
