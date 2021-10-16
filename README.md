@@ -9,7 +9,7 @@
 <h3>About me</h3>
 <p> I'm a backend developer and lover of technology and coding. 💻❤️ </p>
 
-- 🔭 I’m currently working on backend developer
+- 🔭 I’m currently working with backend developing
 - 🌱 I’m currently learning about flutter and node.js
 - 📫 Email: mateus.nazare5@gmail.com
 - 🎮 I'm a lover of games
