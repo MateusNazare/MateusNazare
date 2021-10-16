@@ -1,9 +1,9 @@
 <h2 align="center">Hi, I'm Mateus Nazaré! 😃 </h2>
 
 <div align="center">
-  <a src="https://www.linkedin.com/in/mateus-nazar%C3%A9-tavares-355203187/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a src="https://www.facebook.com/mateus.nazare.9/about" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-  <a src="https://www.instagram.com/mateus_tavares11/tagged/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/mateus-nazar%C3%A9-tavares-355203187/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.facebook.com/mateus.nazare.9/about" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="https://www.instagram.com/mateus_tavares11/tagged/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
 <!--
