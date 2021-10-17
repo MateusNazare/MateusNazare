@@ -11,6 +11,5 @@
 - 🔭 I’m currently working with backend developing
 - 🌱 I’m currently learning about flutter and node.js
 - 📫 Email: mateus.nazare5@gmail.com
-- 🎮 I'm a lover of games
 - 💻 *Never stop learning*
 
