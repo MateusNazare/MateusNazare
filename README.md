@@ -8,8 +8,8 @@
 <h3 align="center">About me</h3>
 <h5 align="center"> I'm a backend developer and lover of technology and coding. 💻❤️ </h5>
 
-- 🔭 I’m currently working with backend developing
-- 🌱 I’m currently learning about flutter and node.js
+- 🔭 I’m working with backend development
+- 🌱 I’m learning about flutter and node.js
 - 📫 Email: mateus.nazare5@gmail.com
 - 💻 *Never stop learning*
 
