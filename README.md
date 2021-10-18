@@ -10,6 +10,13 @@
 
 ---
 
+- 🎓 I'm a computer engineering student
+- 💻 Languages: PHP, Dart, JavaScript, HTML, CSS and C
+- ⚙️ Frameworks: Laravel, Node, Flutter and Bootstrap
+- 🚀 I love learning and creating new things that will impact people's lives.
+
+---
+
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
     <img src="https://github-readme-stats.vercel.app/api?username=mateusnazare&show_icons=true&theme=dark&include_all_commits=true&count_private=true"></img>
