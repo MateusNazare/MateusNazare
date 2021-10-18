@@ -12,7 +12,7 @@
 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
-    <img src="https://github-readme-stats.vercel.app/api?username=MateusNazare&show_icons=true&theme=dark&include_all_commits=true&count_private=true"></img>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusNazare&layout=compact&langs_count=16&theme=dark"></img>
+    <img src="https://github-readme-stats.vercel.app/api?username=mateusnazare&show_icons=true&theme=dark&include_all_commits=true&count_private=true"></img>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusnazare&layout=compact&langs_count=16&theme=dark"></img>
   </div>
 </div>
